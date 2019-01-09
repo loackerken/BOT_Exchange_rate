@@ -1,0 +1,3 @@
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\Release\HMC-SyncExchangrate.exe.config
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\Interop.SAPbobsCOM.dll
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\Release\WindowsFormsApplication4.csproj.ResolveComReference.cache

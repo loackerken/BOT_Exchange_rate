@@ -1,0 +1,14 @@
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\HMC-SyncExchangrate.exe.config
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\Interop.SAPbobsCOM.dll
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.ResolveComReference.cache
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\HMC-SyncExchangrate.exe
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\HMC-SyncExchangrate.pdb
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\HMC-Crypto.dll
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\Newtonsoft.Json.dll
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\bin\x86\Debug\Newtonsoft.Json.xml
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csprojResolveAssemblyReference.cache
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Form3.resources
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.Properties.Resources.resources
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\WindowsFormsApplication4.csproj.GenerateResource.Cache
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\HMC-SyncExchangrate.exe
+C:\Users\Ratthapong.J\Documents\Visual Studio 2015\Projects\WindowsFormsApplication4\WindowsFormsApplication4\obj\x86\Debug\HMC-SyncExchangrate.pdb
